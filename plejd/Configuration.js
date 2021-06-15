@@ -13,7 +13,7 @@ class Configuration {
     }
     return Configuration._options;
   }
-
+sdfgasdfdsfsdfsd
   /** @returns AddonInfo */
   static getAddonInfo() {
     if (!Configuration._addonInfo) {
